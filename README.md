@@ -7,3 +7,4 @@ fix routing issue
 enhance form validation
 refactor components
 update API endpoint
+improve animation smoothness
