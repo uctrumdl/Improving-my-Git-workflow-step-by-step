@@ -17,3 +17,4 @@ enhance pagination
 improve search result
 enhance logging system
 optimize caching
+improve error boundary
