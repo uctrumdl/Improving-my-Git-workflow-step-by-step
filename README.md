@@ -8,3 +8,4 @@ enhance form validation
 refactor components
 update API endpoint
 improve animation smoothness
+enhance notification system
