@@ -15,3 +15,4 @@ enhance data fetch logic
 optimize bundle size
 enhance pagination
 improve search result
+enhance logging system
