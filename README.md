@@ -12,3 +12,4 @@ enhance notification system
 optimize asset loading
 improve filter logic
 enhance data fetch logic
+optimize bundle size
