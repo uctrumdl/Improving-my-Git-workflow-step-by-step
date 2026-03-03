@@ -9,3 +9,4 @@ refactor components
 update API endpoint
 improve animation smoothness
 enhance notification system
+optimize asset loading
