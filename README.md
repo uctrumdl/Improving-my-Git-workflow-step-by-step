@@ -16,3 +16,4 @@ optimize bundle size
 enhance pagination
 improve search result
 enhance logging system
+optimize caching
