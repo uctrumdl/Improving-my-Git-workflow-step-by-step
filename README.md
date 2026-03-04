@@ -21,3 +21,4 @@ improve error boundary
 enhance retry logic
 optimize script loading
 improve debounce logic
+enhance accessibility tags
