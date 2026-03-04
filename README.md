@@ -23,3 +23,4 @@ optimize script loading
 improve debounce logic
 enhance accessibility tags
 optimize memory usage
+improve lazy loading
