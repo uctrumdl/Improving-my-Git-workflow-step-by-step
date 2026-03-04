@@ -19,3 +19,4 @@ enhance logging system
 optimize caching
 improve error boundary
 enhance retry logic
+optimize script loading
