@@ -24,3 +24,4 @@ improve debounce logic
 enhance accessibility tags
 optimize memory usage
 improve lazy loading
+enhance error logging
