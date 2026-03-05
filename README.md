@@ -36,3 +36,4 @@ improve validation message
 enhance fetch retry
 optimize network calls
 improve sorting logic
+enhance pagination UI
