@@ -39,3 +39,4 @@ improve sorting logic
 enhance pagination UI
 optimize state update
 improve error tracking
+enhance search indexing
