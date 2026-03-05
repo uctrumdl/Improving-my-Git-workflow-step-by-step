@@ -40,3 +40,4 @@ enhance pagination UI
 optimize state update
 improve error tracking
 enhance search indexing
+optimize background tasks
