@@ -37,3 +37,4 @@ enhance fetch retry
 optimize network calls
 improve sorting logic
 enhance pagination UI
+optimize state update
