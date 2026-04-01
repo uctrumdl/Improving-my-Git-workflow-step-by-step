@@ -50,3 +50,4 @@ optimize API latency
 improve background sync
 enhance system logging
 Researching smart contract deployment flow.
+Studying gas fee mechanisms.
