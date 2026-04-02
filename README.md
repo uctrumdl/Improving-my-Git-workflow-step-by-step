@@ -51,3 +51,4 @@ improve background sync
 enhance system logging
 Researching smart contract deployment flow.
 Studying gas fee mechanisms.
+Exploring GitHub Actions basics.
