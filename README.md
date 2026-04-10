@@ -57,3 +57,4 @@ Reviewing governance token models.
 Reviewing distributed systems basics.
 Adding small incremental updates.
 Improving structured thinking in development.
+Studying smart contract testing basics.
