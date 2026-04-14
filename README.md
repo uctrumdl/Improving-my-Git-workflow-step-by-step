@@ -59,3 +59,4 @@ Adding small incremental updates.
 Improving structured thinking in development.
 Studying smart contract testing basics.
 Continuing my open source development journey
+Exploring IPFS fundamentals.
