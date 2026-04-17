@@ -62,3 +62,4 @@ Continuing my open source development journey
 Exploring IPFS fundamentals.
 Reviewing token supply models.
 Reviewing common Web3 vulnerabilities.
+Researching decentralized identity systems.
