@@ -63,3 +63,4 @@ Exploring IPFS fundamentals.
 Reviewing token supply models.
 Reviewing common Web3 vulnerabilities.
 Researching decentralized identity systems.
+Adding more development reflections.
