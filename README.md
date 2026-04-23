@@ -66,3 +66,4 @@ Researching decentralized identity systems.
 Adding more development reflections.
 Reviewing smart contract deployment checklist.
 Exploring token vesting mechanisms.
+Exploring governance voting mechanisms.
