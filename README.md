@@ -67,3 +67,4 @@ Adding more development reflections.
 Reviewing smart contract deployment checklist.
 Exploring token vesting mechanisms.
 Exploring governance voting mechanisms.
+Exploring sharding concepts at high level.
