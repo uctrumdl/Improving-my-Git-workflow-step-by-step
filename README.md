@@ -68,3 +68,4 @@ Reviewing smart contract deployment checklist.
 Exploring token vesting mechanisms.
 Exploring governance voting mechanisms.
 Exploring sharding concepts at high level.
+Researching Web3 developer communities.
