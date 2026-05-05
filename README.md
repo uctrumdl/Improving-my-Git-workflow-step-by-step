@@ -71,3 +71,4 @@ Exploring sharding concepts at high level.
 Researching Web3 developer communities.
 Studying backend and blockchain interaction.
 Studying testing frameworks for Solidity.
+Reviewing authentication mechanisms.
