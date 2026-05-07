@@ -73,3 +73,4 @@ Studying backend and blockchain interaction.
 Studying testing frameworks for Solidity.
 Reviewing authentication mechanisms.
 Studying network latency impacts.
+Reviewing liquidation mechanisms.
