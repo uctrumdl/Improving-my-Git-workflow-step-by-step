@@ -74,3 +74,4 @@ Studying testing frameworks for Solidity.
 Reviewing authentication mechanisms.
 Studying network latency impacts.
 Reviewing liquidation mechanisms.
+Learning about frontend wallet connectors.
