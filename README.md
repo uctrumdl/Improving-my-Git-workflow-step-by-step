@@ -78,3 +78,4 @@ Learning about frontend wallet connectors.
 Reviewing developer tooling improvements.
 Strengthening understanding of smart contract logic.
 Reviewing NFT standards
+Studying mempool
