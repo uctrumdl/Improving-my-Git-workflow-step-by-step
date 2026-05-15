@@ -79,3 +79,4 @@ Reviewing developer tooling improvements.
 Strengthening understanding of smart contract logic.
 Reviewing NFT standards
 Studying mempool
+Reviewing EIP standards. <br>
