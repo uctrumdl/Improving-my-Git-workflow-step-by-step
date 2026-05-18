@@ -80,3 +80,4 @@ Strengthening understanding of smart contract logic.
 Reviewing NFT standards
 Studying mempool
 Reviewing EIP standards. <br>
+Studying bridges again
