@@ -81,3 +81,4 @@ Reviewing NFT standards
 Studying mempool
 Reviewing EIP standards. <br>
 Studying bridges again
+Studying backend interaction
