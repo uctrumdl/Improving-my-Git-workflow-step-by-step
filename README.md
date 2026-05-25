@@ -85,3 +85,5 @@ Studying backend interaction
 Studying indexing services
 Reviewing exploits
 Reviewing test coverage
+
+- Learning Git workflow
