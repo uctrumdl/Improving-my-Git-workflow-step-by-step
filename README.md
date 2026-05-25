@@ -86,4 +86,4 @@ Studying indexing services
 Reviewing exploits
 Reviewing test coverage
 
-- Learning Git workflow
+Learning Git workflow
