@@ -85,6 +85,6 @@ Studying backend interaction
 Studying indexing services
 Reviewing exploits
 Reviewing test coverage
-
+Refining formatting
 Tracking milestones
 
