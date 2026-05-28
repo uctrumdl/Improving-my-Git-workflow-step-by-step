@@ -87,4 +87,4 @@ Reviewing exploits
 Reviewing test coverage
 Refining formatting
 Tracking milestones
-
+Improving organization
