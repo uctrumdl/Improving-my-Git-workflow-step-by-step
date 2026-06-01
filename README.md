@@ -89,3 +89,4 @@
 - Tracking milestones
 - Improving organization
 - Improving clarity
+- Studying rollups
