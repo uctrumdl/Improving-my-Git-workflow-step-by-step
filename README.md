@@ -90,3 +90,4 @@
 - Improving organization
 - Improving clarity
 - Studying rollups
+- Exploring scalability
