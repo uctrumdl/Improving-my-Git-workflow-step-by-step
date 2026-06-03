@@ -91,3 +91,4 @@
 - Improving clarity
 - Studying rollups
 - Exploring scalability
+- Studying APIs
