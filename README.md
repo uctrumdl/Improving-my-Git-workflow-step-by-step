@@ -92,3 +92,4 @@
 - Studying rollups
 - Exploring scalability
 - Studying APIs
+- Reviewing liquidation
