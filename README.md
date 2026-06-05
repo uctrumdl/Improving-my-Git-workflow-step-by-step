@@ -93,3 +93,4 @@
 - Exploring scalability
 - Studying APIs
 - Reviewing liquidation
+- Reviewing backend flow
