@@ -94,3 +94,4 @@
 - Studying APIs
 - Reviewing liquidation
 - Reviewing backend flow
+- Adding roadmap ideas
