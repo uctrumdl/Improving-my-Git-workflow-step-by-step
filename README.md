@@ -95,3 +95,4 @@
 - Reviewing liquidation
 - Reviewing backend flow
 - Adding roadmap ideas
+- Improving layout
