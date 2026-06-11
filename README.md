@@ -97,3 +97,4 @@
 - Adding roadmap ideas
 - Improving layout
 - Refining layout
+- Adding improvements
