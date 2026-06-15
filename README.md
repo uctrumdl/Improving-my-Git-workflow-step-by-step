@@ -99,3 +99,4 @@
 - Refining layout
 - Adding improvements
 - Adding updates
+- Refining notes
