@@ -100,3 +100,4 @@
 - Adding improvements
 - Adding updates
 - Refining notes
+- Researching DeFi protocols.
