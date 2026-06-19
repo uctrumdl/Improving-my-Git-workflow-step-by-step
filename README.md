@@ -101,3 +101,4 @@
 - Adding updates
 - Refining notes
 - Researching DeFi protocols.
+- Exploring testnet environments.
