@@ -102,3 +102,4 @@
 - Refining notes
 - Researching DeFi protocols.
 - Exploring testnet environments.
+- Learning about DAO structures.
