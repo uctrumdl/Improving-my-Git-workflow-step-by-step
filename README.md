@@ -103,3 +103,4 @@
 - Researching DeFi protocols.
 - Exploring testnet environments.
 - Learning about DAO structures.
+- Learning about RPC endpoints.
