@@ -104,3 +104,4 @@
 - Exploring testnet environments.
 - Learning about DAO structures.
 - Learning about RPC endpoints.
+- Studying open source contribution models.
