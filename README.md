@@ -107,3 +107,4 @@
 - Studying open source contribution models.
 - Studying liquidity mechanisms.
 - Exploring consensus validation process.
+- Improving consistency in updates.
